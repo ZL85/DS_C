@@ -1,0 +1,4 @@
+# ninja log v5
+2	338	7060073681311456	build.ninja	a3a7917eb1635fba
+0	82	7060073027152625	CMakeFiles/Sequential_Search_d.dir/Sequential_Search_d.c.obj	d7d3801cfd12d8bb
+84	192	7060073028219902	Sequential_Search_d.exe	9847cdd7466b8031

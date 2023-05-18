@@ -1,0 +1,4 @@
+# ninja log v5
+1	154	7060231767328423	build.ninja	a6532ab9112da737
+0	89	7060231768447042	CMakeFiles/Optimal_Merge_Tree.dir/Optimal_Merge_Tree.c.obj	464267fc0dbde81e
+91	203	7060231769549875	Optimal_Merge_Tree.exe	5e026e6d91e25993

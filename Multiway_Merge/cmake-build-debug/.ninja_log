@@ -1,0 +1,4 @@
+# ninja log v5
+2	180	7060228750685807	build.ninja	b73674a56e3f67e9
+0	84	7060228751738540	CMakeFiles/Multiway_Merge.dir/Multiway_Merge.c.obj	eb05cfc901106b28
+85	195	7060228752822831	Multiway_Merge.exe	ac400b0404e0dcfc

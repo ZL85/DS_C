@@ -1,0 +1,4 @@
+# ninja log v5
+1	150	7060224814486848	build.ninja	8c469ba624c125cf
+1	86	7060224815576159	CMakeFiles/Merge_Sort.dir/Merge_Sort.c.obj	ea5aa2c2dec7ed33
+102	229	7060224816944803	Merge_Sort.exe	8259d4c89651a4c9

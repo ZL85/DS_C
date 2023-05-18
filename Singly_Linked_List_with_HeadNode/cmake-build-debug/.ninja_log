@@ -1,0 +1,4 @@
+# ninja log v5
+1	150	7059380824171638	build.ninja	f999736bb63b8c7b
+0	86	7059380825247931	CMakeFiles/Singly_Linked_List_with_HeadNode.dir/Singly_Linked_List_with_HeadNode.c.obj	1b7119fb3a06e89
+88	188	7059380826232152	Singly_Linked_List_with_HeadNode.exe	9de66f678250ed81

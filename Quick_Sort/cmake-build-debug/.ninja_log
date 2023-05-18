@@ -1,0 +1,4 @@
+# ninja log v5
+1	153	7060215808277616	build.ninja	13b052050564be47
+0	99	7060215809509328	CMakeFiles/Quick_Sort.dir/Quick_Sort.c.obj	addaa49c5c7b1b12
+100	280	7060215811275061	Quick_Sort.exe	bbcc5597880668cc

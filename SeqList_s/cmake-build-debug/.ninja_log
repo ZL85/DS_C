@@ -1,0 +1,10 @@
+# ninja log v5
+0	98	7059284404571869	CMakeFiles/SeqList.dir/static.c.obj	76fccc19af7dc1d0
+1	142	7059312902662236	build.ninja	5bd3c33443b757ae
+98	201	7059284405559804	SeqList.exe	c100706e3fdcd4db
+2	172	7059330624361685	CMakeFiles/SeqList.dir/static.c.obj	76fccc19af7dc1d0
+172	308	7059330625673329	SeqList.exe	c100706e3fdcd4db
+2	97	7059330887377211	CMakeFiles/SeqList.dir/static.c.obj	76fccc19af7dc1d0
+98	210	7059330888473734	SeqList.exe	c100706e3fdcd4db
+3	102	7059332079533456	CMakeFiles/SeqList.dir/static.c.obj	76fccc19af7dc1d0
+102	207	7059332080549312	SeqList.exe	c100706e3fdcd4db

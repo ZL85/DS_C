@@ -1,0 +1,4 @@
+# ninja log v5
+1	189	7060205211060939	build.ninja	990bb7f680084ec5
+0	104	7060205212385604	CMakeFiles/Binary_Insertion_Sort.dir/Binary_Insertion_Sort.c.obj	eeacee5953526f3a
+106	219	7060205213485546	Binary_Insertion_Sort.exe	cab4fd3eddadf978

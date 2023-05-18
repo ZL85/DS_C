@@ -1,0 +1,8 @@
+# ninja log v5
+1	158	7060123772291359	build.ninja	127afcebebac4d0b
+1	105	7060123734931019	CMakeFiles/Red_Black_Tree.dir/Red_Black_Tree.c.obj	c56eb27123980560
+107	213	7060123735968868	Red_Black_Tree.exe	bc059f888ccaf58d
+3	101	7060124044422915	CMakeFiles/Red_Black_Tree.dir/Red_Black_Tree.c.obj	c56eb27123980560
+102	211	7060124045476892	Red_Black_Tree.exe	bc059f888ccaf58d
+2	102	7060124530400103	CMakeFiles/Red_Black_Tree.dir/Red_Black_Tree.c.obj	c56eb27123980560
+102	207	7060124531405453	Red_Black_Tree.exe	bc059f888ccaf58d

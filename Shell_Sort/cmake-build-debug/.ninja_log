@@ -1,0 +1,6 @@
+# ninja log v5
+1	167	7060211103181088	build.ninja	a1e443123f78a777
+0	103	7060211104481918	CMakeFiles/Shell_Sort.dir/Shell_Sort.c.obj	6eaba0ef10190363
+105	284	7060211106231020	Shell_Sort.exe	9edaf21c5e79debb
+2	96	7060211855264038	CMakeFiles/Shell_Sort.dir/Shell_Sort.c.obj	6eaba0ef10190363
+96	206	7060211856329663	Shell_Sort.exe	9edaf21c5e79debb

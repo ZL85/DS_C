@@ -1,0 +1,4 @@
+# ninja log v5
+1	252	7060203668050748	build.ninja	1b7151e873550203
+0	82	7060203670115771	CMakeFiles/Direct_Insertion_Sort.dir/Direct_Insertion_Sort.c.obj	9874d43b37d1820a
+83	195	7060203671207862	Direct_Insertion_Sort.exe	4124e42c58737324

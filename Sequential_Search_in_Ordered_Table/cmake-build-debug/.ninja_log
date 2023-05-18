@@ -1,0 +1,4 @@
+# ninja log v5
+1	158	7060082176329536	build.ninja	e3eb0cab00622ad
+1	90	7060081856179597	CMakeFiles/Sequential_Search_in_Ordered_Table.dir/Sequential_Search_in_Ordered_Table.c.obj	695d9efc6a77ec6a
+90	198	7060081857204344	Sequential_Search_in_Ordered_Table.exe	f5c687ae6f13098

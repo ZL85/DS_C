@@ -1,0 +1,3 @@
+D:/JetBrains/CLionProjects/DS_C/Block_Search/cmake-build-debug/CMakeFiles/Block_Search.dir
+D:/JetBrains/CLionProjects/DS_C/Block_Search/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/JetBrains/CLionProjects/DS_C/Block_Search/cmake-build-debug/CMakeFiles/rebuild_cache.dir

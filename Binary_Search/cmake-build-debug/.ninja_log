@@ -1,0 +1,6 @@
+# ninja log v5
+1	217	7060085167713114	build.ninja	e56c2e78a872001a
+1	82	7060084788097809	CMakeFiles/Binary_Search.dir/Binary_Search.c.obj	9c855f98a3475f6b
+84	196	7060084789186171	Binary_Search.exe	1f7ec70f588d7b69
+1	89	7060085180917874	CMakeFiles/Binary_Search.dir/Binary_Search.c.obj	9c855f98a3475f6b
+90	197	7060085181957358	Binary_Search.exe	1f7ec70f588d7b69

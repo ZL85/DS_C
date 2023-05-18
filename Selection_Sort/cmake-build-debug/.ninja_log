@@ -1,0 +1,4 @@
+# ninja log v5
+2	166	7060219194036443	build.ninja	b540bcb606a53a20
+1	103	7060219195308663	CMakeFiles/Selection_Sort.dir/Selection_Sort.c.obj	19349435246aa02e
+104	220	7060219196450473	Selection_Sort.exe	91cd11924fd1a37a
